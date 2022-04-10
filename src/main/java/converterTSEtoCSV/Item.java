@@ -27,7 +27,7 @@ public class Item {
     private String supplierNumber;
     private String marketingCode;
 
-    @Column(precision = 10, scale = 2)
+    @Column(columnDefinition = "Decimal(10,2)")
     private BigDecimal fobNetPrice;
     private String currencyCode;
     private String countryOfOrigin;
@@ -44,7 +44,7 @@ public class Item {
     @Column(columnDefinition = "Decimal(10,2)")
     private BigDecimal retailPrice;
 
-    @Column(precision = 10, scale = 2)
+    @Column(columnDefinition = "Decimal(10,2)")
     private BigDecimal dealerNetPrice;
     private String passiveFlag;
     private Integer discountCode;
