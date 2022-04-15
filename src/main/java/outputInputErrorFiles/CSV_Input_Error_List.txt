@@ -1,0 +1,3 @@
+
+List of items with errors at 2022-04-15T23:04:27.303529300: 
+VMC1114281 / Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
