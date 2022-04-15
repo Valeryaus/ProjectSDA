@@ -1,75 +1,9 @@
 
-List of items with errors at: 2022-04-09T19:29:24.348311900: 
-VMC1114271 / Volvo Flag 1500 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at: 2022-04-09T19:39:21.080407: 
-VMC1114271 / Volvo Flag 1500 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at: 2022-04-09T20:19:42.766928200: 
-VMC1114271 / Volvo Flag 1500 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at: 2022-04-09T20:36:40.421407800: 
-VMC1114271 / Volvo Flag 1500 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T21:07:09.404903400: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:00:46.092489100: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:02:10.496547100: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:05:59.010660300: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:07:40.553278200: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:14:40.880564900: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:14:40.890614700: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:28.387175: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:28.395191300: 
-VMC14281 / Volvo Flag 450 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:28.395191300: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:40.273715200: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:40.283754900: 
-VMC14281 / Volvo Flag 450 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:40.283754900: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:40.283754900: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:58.356019: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:58.366045900: 
-VMC14281 / Volvo Flag 450 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:58.366045900: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:58.366045900: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
-List of items with errors at 2022-04-09T23:27:58.366045900: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
-
 List of items with errors at 2022-04-10T10:27:57.460732200: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
+VMC1114281 / Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
 
 List of items with errors at 2022-04-10T11:40:39.746473700: 
-VMC1114281 / Volvo Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
+VMC1114281 / Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
+
+List of items with errors at 2022-04-15T22:55:23.495645600: 
+VMC1114281 / Flag 4000 - Volvo Word Mark -zero or missing weight of item- 0 gramme;
