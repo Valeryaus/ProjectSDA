@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 public class Main {
 
     public static final String INPUT_PATH = "C:/Temp/Input.csv"; // path for JAR file
-    public static final String OUTPUT_PATH = "C:/Temp/Output.csv"; // path for JAR file
+    public static final String OUTPUT_PATH = "C:/Temp/R1VIPTLT.csv"; // path for JAR file
     public static final String ERROR_FILE_PATH = "C:/Temp/TSE_file_error_list.txt"; // path for JAR file
     
 //    public static final String INPUT_PATH = "src/main/java/converterTSEtoCSV/Input.csv"; // path for IDE console
@@ -74,7 +74,8 @@ public class Main {
 
         //rasom i CSV
         FileWriter writerToCSV = new FileWriter(OUTPUT_PATH);
-
+        writerToCSV.write("valery.rynkevic" + "\r");
+        writerToCSV.write("volvo.com" + "\r");
         for (String csvRow : rowsForCSV) {
             writerToCSV.write(csvRow + "\r");
         }
